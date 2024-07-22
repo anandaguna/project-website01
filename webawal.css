@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.profile-icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.profile-info {
+    font-size: 16px;
+}
+
+.student {
+    background-color: #e0f7fa;
+    border: 2px solid #00acc1;
+}
+
+.lecturer {
+    background-color: #e8f5e9;
+    border: 2px solid #43a047;
+}
